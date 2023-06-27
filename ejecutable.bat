@@ -1,0 +1,1 @@
+gradle clean test --tests *com.guru99.demo.runners.RegistroRunnerDemo aggregate --info & cd target/site/serenity & index.html
