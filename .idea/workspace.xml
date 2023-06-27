@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e622adcc-72ec-4222-963d-b52880236818" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guru99/demo/pageObject/PaginaRegistroPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guru99/demo/pageObject/PaginaUsuarioPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guru99/demo/steps/MetodosSelenium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guru99/demo/steps/PaginaRegistroStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guru99/demo/steps/PaginaUsuarioStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guru99/demo/utils/EsperaExplicita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guru99/demo/utils/Excel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/guru99/demo/runners/RegistroRunnerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/guru99/demo/stepDefinitions/RegistroStepDefinition.java" afterDir="false" />
-    </list>
+    <list default="true" id="e622adcc-72ec-4222-963d-b52880236818" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,23 +23,7 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="newtours" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="newtours" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="newtours" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="serenity bdd" type="c8890929:TasksNode$1" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -89,7 +50,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/seba_/IdeaProjects/seminario"
+    "last_opened_file_path": "C:/Users/seba_/OneDrive/Escritorio/guru99/guru99"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -189,8 +150,8 @@
     </configuration>
     <list>
       <item itemvalue="Cucumber Java.Scenario: Registro usuario exitosa" />
-      <item itemvalue="Gradle.newtours [aggregate]" />
       <item itemvalue="Gradle.RegistroRunnerDemo" />
+      <item itemvalue="Gradle.newtours [aggregate]" />
       <item itemvalue="JUnit.Unnamed" />
     </list>
     <recent_temporary>
